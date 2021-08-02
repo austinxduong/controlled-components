@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`App component renders App 1`] = `
+exports[`test functionality for NameControls Component renders the name input to display 1`] = `
 <DocumentFragment>
   <label
     for="greeting"
@@ -26,9 +26,5 @@ exports[`App component renders App 1`] = `
     type="name"
     value=""
   />
-  <div>
-    <p />
-    <p />
-  </div>
 </DocumentFragment>
 `;

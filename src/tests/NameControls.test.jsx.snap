@@ -1,23 +1,21 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`App component renders App 1`] = `
+exports[`NameControls component NameControls 1`] = `
 <DocumentFragment>
   <label
-    for="greeting"
+    for="greeting
   >
-     Greeting 
+    Greeting
   </label>
   <input
     id="greeting"
     name="greeting"
-    placeholder="Greeting Message"
-    type="greeting"
     value=""
   />
   <label
     for="name"
   >
-     Name 
+    Name
   </label>
   <input
     id="name"
@@ -26,9 +24,5 @@ exports[`App component renders App 1`] = `
     type="name"
     value=""
   />
-  <div>
-    <p />
-    <p />
-  </div>
 </DocumentFragment>
 `;
